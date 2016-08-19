@@ -4,4 +4,4 @@
 
 _Простейший кастомный лаунчер. Использовались Fragments, RecyclerView_
 
-[Скачать JAR] (https://github.com/serzhanto/Tetris/raw/master/out/artifacts/tetris/Tetris.jar)
+[Скачать APK] (https://github.com/serzhanto/CustomLauncher/raw/master/app/build/outputs/apk/app-debug.apk)
